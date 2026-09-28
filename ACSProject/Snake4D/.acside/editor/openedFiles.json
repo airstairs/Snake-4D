@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snake4D/app/src/main/kotlin/com/xthan/snake4d/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1320,
+          "line": 40
+        },
+        "start": {
+          "column": 0,
+          "index": 1320,
+          "line": 40
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snake4D/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 985,
+          "line": 25
+        },
+        "start": {
+          "column": 0,
+          "index": 985,
+          "line": 25
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snake4D/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 52,
+          "index": 594,
+          "line": 14
+        },
+        "start": {
+          "column": 52,
+          "index": 594,
+          "line": 14
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Snake4D/app/src/main/assets/index.html",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 12400,
+          "line": 432
+        },
+        "start": {
+          "column": 0,
+          "index": 12400,
+          "line": 432
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Snake4D/app/src/main/assets/index.html"
+}
